@@ -24,3 +24,6 @@ The clock has 4 different modes encoded through the position of the two switches
  - Lamp
  - Off
 In order to set the time, simply run the project SetTime that you find in the folder Utils. This snipet will communicate through the arduino serial with the rtc, setting the time in the rtc chip. The set time will be kept in memory even after uploading the clock-lamp code. 
+
+
+Freely inspired by : https://www.instructables.com/Ping-Pong-Ball-LED-Clock/
